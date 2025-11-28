@@ -1,7 +1,20 @@
 # Hierarchical-Hybrid-Neural-Network-Ranking-Models
 Long Document Readability Assessmen
 
-Y. Zheng, Y. Chen, and S. Zhang, “Hierarchical Ranking Neural Network for Long Document Readability Assessment,” arXiv preprint arXiv:2511.21473, 2025.
+## Paper Description
+
+The data contained in this repository comes from the following papers:
+**[Hierarchical Ranking Neural Network for Long Document Readability Assessment](https://arxiv.org/abs/2511.21473)**
+
+author：Yurui Zheng, Yijun Chen, Shaohong Zhang  
+year：2025  
+arXiv preprint number：2511.21473
+
+### Research Intent
+Our research aims to propose a hierarchical ranking neural network for evaluating the readability of long documents. As the amount of information increases, the challenges of reading long documents also grow. This research hopes to improve document readability through an algorithmic model, thereby enhancing the reader's experience.
+
+### Data Usage Declaration
+The data in this repository is available for academic research and other purposes. Users of this data must cite our papers to ensure academic integrity and knowledge sharing. Please use the following citation format:
 
 ```bibtex
 @misc{zheng2025hierarchicalrankingneuralnetwork,
